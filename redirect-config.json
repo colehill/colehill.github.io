@@ -7,6 +7,6 @@
 		"lienss.com"
 	],
 	"redirectUrl": "https://www.sekoeo.com/page/",
-	"redirectStartHour": 20,
-	"redirectEndHour": 19
+	"redirectStartHour": 21,
+	"redirectEndHour": 8
 }
