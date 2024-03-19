@@ -4,9 +4,10 @@
 		"www.sekoeo.com",
 		"bbjje.com ",
 		"wwldk.com",
+		"chat.bbjje.com ",
 		"lienss.com"
 	],
-	"redirectUrl": "https://www.sekoeo.com/page/",
-	"redirectStartHour": 21,
+	"redirectUrl": "https://www.bbjje.com/page1/",
+	"redirectStartHour": 16,
 	"redirectEndHour": 8
 }
